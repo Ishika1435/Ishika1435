@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Ishika Thakur
 
-<!--
-**Ishika1435/Ishika1435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A backend-focused developer with experience in building practical, data-driven applications.  
+I enjoy working on systems that involve structured data, clean API design, and real-time processing.  
+Recently, I have also been exploring applications of computer vision for live analytics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+
+**Languages:** Python, SQL, C++  
+**Backend:** Flask, REST APIs, Authentication  
+**Databases:** PostgreSQL, MySQL, SQLite  
+**Cloud & Deployment:** AWS EC2, Ubuntu, Nginx, Gunicorn  
+**Computer Vision:** YOLOv5, DeepSORT, OpenCV  
+**Tools:** Git, Bash, Pandas  
+
+---
+
+## Featured Projects
+
+### Live People Counter (Computer Vision)
+A real-time head detection and tracking system built with YOLOv5 and DeepSORT/IoU.  
+Designed for CCTV-style monitoring and live counting scenarios.  
+**Repo:** https://github.com/Ishika1435/live-people-counter
+
+### Blog Management System  
+A full-featured blog platform with authentication, comments, categories, and Cloudinary-based image uploads.  
+Deployed on Render.  
+**Repo:** https://github.com/Ishika1435/blog-management-system
+
+---
+
+## Experience
+**Software Engineering Intern – Quickly Design Pvt. Ltd.**
+
+Worked on backend components of internal applications, which involved:
+
+- Implementing API endpoints and backend logic  
+- Optimizing queries for structured datasets  
+- Deploying and testing services on cloud environments  
+- Creating automation scripts for data and document workflows  
+
+(*Work descriptions kept general to maintain confidentiality.*)
+
+---
+
+## Contact
+**Email:** ishikat1403@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/ishikathakur1  
+**GitHub:** https://github.com/Ishika1435
